@@ -9,7 +9,7 @@ body {
     align-items: center;
 }
 
-.calc-container {
+.container {
     display: grid;
     border: 1px solid grey;
     grid-template-rows: repeat(7, auto);
@@ -30,7 +30,7 @@ body {
     background-color: whitesmoke;
 }
 
-#buttons-container {
+#buttons {
     display: grid;
     grid-template-columns: repeat(4, auto);
     text-align: center;
